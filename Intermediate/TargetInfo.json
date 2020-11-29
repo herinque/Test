@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject",
+			"Path": "C:\\Users\\xondr\\OneDrive\\Dokumenty\\GitHub\\Test\\Source\\MyProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProjectEditor",
+			"Path": "C:\\Users\\xondr\\OneDrive\\Dokumenty\\GitHub\\Test\\Source\\MyProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

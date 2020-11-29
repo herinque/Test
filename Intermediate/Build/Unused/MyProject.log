@@ -1,0 +1,11 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\xondr\OneDrive\Dokumenty\GitHub\Test).
+  Building MyProjectEditor...
+  Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 4 processes...
+    [1/3] UE4Editor-MyProject-0002.lib
+       Creating library C:\Users\xondr\OneDrive\Dokumenty\GitHub\Test\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.lib and object C:\Users\xondr\OneDrive\Dokumenty\GitHub\Test\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.exp
+    [2/3] UE4Editor-MyProject-0002.dll
+       Creating library C:\Users\xondr\OneDrive\Dokumenty\GitHub\Test\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.suppressed.lib and object C:\Users\xondr\OneDrive\Dokumenty\GitHub\Test\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.suppressed.exp
+    [3/3] MyProjectEditor.target
+  Total time in Parallel executor: 2.21 seconds
+  Total execution time: 3.62 seconds
